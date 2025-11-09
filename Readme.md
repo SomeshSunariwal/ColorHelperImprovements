@@ -1,1 +1,1 @@
-# This repository is to track issue on the pluings.
+# This repository is to track issues on the pluing.
